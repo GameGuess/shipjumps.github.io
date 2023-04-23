@@ -19,8 +19,7 @@
       <p>Nous ne vendons ni ne louons vos informations à des tiers. Nous pouvons partager vos informations avec des prestataires de services tiers qui nous aident à fournir des produits et services, mais uniquement dans la mesure nécessaire pour fournir ces produits et services.</p>
     
       <h2>Sécurité des informations</h2>
-      <p>Nous prenons des mesures de sécurité appropriées pour protéger vos informations contre la perte, l'utilisation abusive et l'accès non autorisé. Toutefois, aucune méthode de transmission sur Internet ou de stockage électron
-que n'est totalement sécurisée. Par conséquent, bien que nous nous efforcions de protéger vos informations, nous ne pouvons garantir leur sécurité absolue.</p>
+      <p>Nous prenons des mesures de sécurité appropriées pour protéger vos informations contre la perte, l'utilisation abusive et l'accès non autorisé. Toutefois, aucune méthode de transmission sur Internet ou de stockage électron que n'est totalement sécurisée. Par conséquent, bien que nous nous efforcions de protéger vos informations, nous ne pouvons garantir leur sécurité absolue.</p>
 <h2>Liens vers d'autres sites Web</h2>
 <p>Notre site Web ou notre application peut contenir des liens vers d'autres sites Web. Nous ne sommes pas responsables des pratiques de confidentialité ou du contenu de ces sites Web. Nous vous recommandons de lire les politiques de confidentialité de ces sites Web avant de fournir des informations personnelles.</p>
 <h2>Modifications de la politique de confidentialité</h2>
