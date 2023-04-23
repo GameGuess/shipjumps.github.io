@@ -5,49 +5,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Politique de confidentialité</title>
-    <style>
-      /* Styles pour la page de politique de confidentialité */
-      body {
-        font-family: Arial, sans-serif;
-        font-size: 16px;
-        line-height: 1.5;
-        margin: 0;
-        padding: 0;
-      }
-      .container {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 20px;
-      }
-      h1 {
-        font-size: 36px;
-        margin-bottom: 20px;
-      }
-      h2 {
-        font-size: 24px;
-        margin-top: 30px;
-        margin-bottom: 15px;
-      }
-      p {
-        margin-top: 0;
-        margin-bottom: 15px;
-      }
-      ul {
-        margin-top: 0;
-        margin-bottom: 15px;
-        padding-left: 20px;
-      }
-      li {
-        margin-bottom: 10px;
-      }
-      a {
-        color: #0070C0;
-        text-decoration: none;
-      }
-      a:hover {
-        text-decoration: underline;
-      }
-    </style>
+    
   </head>
   <body>
     <div class="container">
