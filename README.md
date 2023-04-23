@@ -25,7 +25,7 @@
 <h2>Modifications de la politique de confidentialité</h2>
 <p>Nous pouvons modifier cette politique de confidentialité de temps à autre en publiant une nouvelle version sur notre site Web ou notre application. Nous vous recommandons de consulter cette page régulièrement pour vous tenir au courant de tout changement. Les changements entrent en vigueur dès leur publication sur notre site Web ou notre application.</p>
 <h2>Nous contacter</h2>
-<p>Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité, n'hésitez pas à nous contacter à l'adresse e-mail suivante : privacy@exemple.com.</p>
+<p>Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité, n'hésitez pas à nous contacter à l'adresse e-mail suivante : shipjumps@gmail.com.</p>
 </div>
 
   </body>
