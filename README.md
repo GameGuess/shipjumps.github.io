@@ -4,7 +4,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Politique de confidentialité</title>
+    Politique de confidentialité
     
   </head>
   <body>
